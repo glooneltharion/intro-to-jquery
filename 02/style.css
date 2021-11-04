@@ -1,0 +1,31 @@
+main {
+    border: 5px solid #4285f4;
+    padding: 0;
+    width: 250px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .north {
+    background: #E67676;
+  }
+  
+  .east {
+     background: #F2F062;
+  }
+  
+  .south {
+    background: #A9E6E6;
+  }
+  
+  .west {
+    background: #7692E4;
+  }
+  
+  p {
+    margin: 0;
+    padding: 30px;
+  }
